@@ -1,0 +1,5 @@
+﻿  GUI.cpp
+C:\Users\saveo\Downloads\AT\AT\SGE_Start\Win - complete OpenGL libs\Game\GUI.cpp(894,21): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Logic.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\saveo\Downloads\AT\AT\SGE_Start\Win - complete OpenGL libs\Game\Release\Game.exe
